@@ -25,4 +25,4 @@ st.markdown("""
 # Documento integrador · Gestión de Riesgos III · Universidad El Bosque
 # Jeisson David Burgos Murillo y Johan Arley Contreras Cruz
 html = (Path(__file__).parent / "tablero.html").read_text(encoding="utf-8")
-components.html(html, height=3500, scrolling=True)
+components.html(html, height=4300, scrolling=True)
